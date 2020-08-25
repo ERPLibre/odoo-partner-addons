@@ -17,5 +17,5 @@
         'views/checkout_address.xml',
     ],
     'installable': True,
-    'auto_install': True,
+    'auto_install': False,
 }
